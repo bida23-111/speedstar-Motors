@@ -87,3 +87,16 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+ a:visited{
+    color: red;
+     text decoration :none;
+ }
+       a:link{
+ color: green
+ text decoration:none;
+       }
+ a:hover {
+     color:orange
+ text-decorations: none;
+           
+
